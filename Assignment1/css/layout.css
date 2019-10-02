@@ -1,0 +1,9 @@
+.carousel{
+    overflow: hidden;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
